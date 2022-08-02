@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# weather_dashboard
-=======
-<<<<<<< HEAD
-# weather-dashboard
-=======
 ## Weather Dashboard
 
 Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
@@ -28,5 +22,4 @@ GIVEN a weather dashboard with form inputs WHEN I search for a city THEN I am pr
 The following image shows the web application's appearance and functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Screenshot.png)
 ```
->>>>>>> 5846cfe (my assignment code)
->>>>>>> 47141e0 (my code)
+
