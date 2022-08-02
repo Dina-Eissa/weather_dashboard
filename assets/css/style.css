@@ -1,0 +1,21 @@
+.hero {
+  padding: 3% 4%;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 38, 255, 0),
+    rgb(82, 85, 250),
+    rgb(82, 85, 250)
+  );
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.hero h1 {
+  font-weight: bold;
+}
+
+.headerSearch h3 {
+  margin-top: 10px;
+}
