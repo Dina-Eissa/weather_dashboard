@@ -20,6 +20,6 @@ GIVEN a weather dashboard with form inputs WHEN I search for a city THEN I am pr
 ## Mockup
 
 The following image shows the web application's appearance and functionality:
-![user interface](./Screenshot.png)
+![user interface](./screenshot.png)
 ```
 
